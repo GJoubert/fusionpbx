@@ -3,8 +3,8 @@
 $apps[$x]['menu'][0]['title']['en-us'] = 'Call Recordings';
 $apps[$x]['menu'][0]['title']['en-gb'] = 'Call Recordings';
 $apps[$x]['menu'][0]['title']['es-cl'] = '';
-$apps[$x]['menu'][0]['title']['fr-fr'] = '';
-$apps[$x]['menu'][0]['title']['fr-ca'] = '';
+$apps[$x]['menu'][0]['title']['fr-fr'] = "Enregistrements d'appels";
+$apps[$x]['menu'][0]['title']['fr-ca'] = "Enregistrements d'appels"; //fr-ca translation
 $apps[$x]['menu'][0]['title']['nl-nl'] = 'Gespreksopnamen';
 $apps[$x]['menu'][0]['title']['pl'] = '';
 $apps[$x]['menu'][0]['title']['sv-se'] = '';
