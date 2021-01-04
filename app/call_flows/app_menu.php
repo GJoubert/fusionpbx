@@ -9,7 +9,7 @@
 	$apps[$x]['menu'][$y]['title']['de-de'] = "Anruf Steuerung";
 	$apps[$x]['menu'][$y]['title']['es-cl'] = "Flujo de Llamada";
 	$apps[$x]['menu'][$y]['title']['es-mx'] = "";
-	$apps[$x]['menu'][$y]['title']['fr-ca'] = "Circulation d'Appel";
+	$apps[$x]['menu'][$y]['title']['fr-ca'] = "Flux d'appels"; //fr-ca translation
 	$apps[$x]['menu'][$y]['title']['fr-fr'] = "cinématiques d'Appel";
 	$apps[$x]['menu'][$y]['title']['he-il'] = "";
 	$apps[$x]['menu'][$y]['title']['it-it'] = "Deviatori di Chiamata";
